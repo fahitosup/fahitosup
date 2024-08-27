@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack web developer
 ------------------------
 
-* 🌍  I'm based in Ankara, Turkey
+* 🌍  I'm based in Waterloo, Canada
 * 🖥️  See my portfolio at [My portfolio](http://my-portfolio-five-smoky.vercel.app)
 * ✉️  You can contact me at [syedfahadsaif@gmail.com](mailto:syedfahadsaif@gmail.com)
 * 🧠  I'm learning React.JS, Node.JS/Express, Django, Django REST framework
